@@ -1,0 +1,11 @@
+
+****** Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+  **** SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+  **** IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source D:/xilink/Vitis_HLS/2022.1/scripts/vitis_hls/hls.tcl -notrace
+INFO: [HLS 200-10] Running 'D:/xilink/Vitis_HLS/2022.1/bin/unwrapped/win64.o/vitis_hls.exe'
+INFO: [HLS 200-10] For user 'GUEST1' on host 'desktop-6psr206' (Windows NT_amd64 version 6.2) on Fri May 27 15:20:34 +0800 2022
+INFO: [HLS 200-10] In directory 'D:/Project/FPGA/HLS/LeNet'
+INFO: [HLS 200-10] Bringing up Vitis HLS GUI ... 

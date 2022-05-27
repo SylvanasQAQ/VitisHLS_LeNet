@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [HLS 200-960] Cannot flatten loop 'loop_column' (LeNet/src/avgpool_layer2.cpp:5:6) in function 'LeNet' the outer loop is not a perfect loop.&#xD;&#xA;Resolution: For help on HLS 200-960 see www.xilinx.com/cgi-bin/docs/rdoc?v=2022.1;t=hls+guidance;d=200-960.html" projectName="LeNet" solutionName="release_sln" date="2022-05-27T20:52:48.008+0800" type="Warning"/>
+        <logs message="WARNING: [SYNCHK 200-23] D:/xilink/Vitis_HLS/2022.1/common/technology/autopilot\ap_fixed_base.h:1148: variable-indexed range selection may cause suboptimal QoR." projectName="LeNet" solutionName="release_sln" date="2022-05-27T20:52:45.631+0800" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

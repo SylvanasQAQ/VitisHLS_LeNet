@@ -1,0 +1,60 @@
+
+主机名:           DESKTOP-6PSR206
+OS 名称:          Microsoft Windows 10 专业版
+OS 版本:          10.0.19043 暂缺 Build 19043
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构建类型:      Multiprocessor Free
+注册的所有人:     1393687443@qq.com
+注册的组织:       
+产品 ID:          00330-80000-00000-AA764
+初始安装日期:     2019/12/7, 15:03:43
+系统启动时间:     2022/5/26, 19:23:28
+系统制造商:       BIOSTAR Group
+系统型号:         TB250-BTC
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~3600 Mhz
+BIOS 版本:        American Megatrends Inc. 5.12, 2017/6/8
+Windows 目录:     C:\Windows
+系统目录:         C:\Windows\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     12,257 MB
+可用的物理内存:   8,366 MB
+虚拟内存: 最大值: 20,961 MB
+虚拟内存: 可用:   14,385 MB
+虚拟内存: 使用中: 6,576 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\DESKTOP-6PSR206
+修补程序:         安装了 9 个修补程序。
+                  [01]: KB5013624
+                  [02]: KB5000736
+                  [03]: KB5013942
+                  [04]: KB5006753
+                  [05]: KB5007273
+                  [06]: KB5011352
+                  [07]: KB5011651
+                  [08]: KB5014032
+                  [09]: KB5005699
+网卡:             安装了 3 个 NIC。
+                  [01]: Realtek RTL8723B Wireless LAN 802.11n USB 2.0 Network Adapter
+                      连接名:      WLAN
+                      状态:        媒体连接已中断
+                  [02]: Realtek PCIe GbE Family Controller
+                      连接名:      以太网
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.3.1
+                      IP 地址
+                        [01]: 192.168.3.75
+                        [02]: fe80::3916:589b:935c:d5a9
+                  [03]: Bluetooth Device (Personal Area Network)
+                      连接名:      蓝牙网络连接
+                      状态:        媒体连接已中断
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是

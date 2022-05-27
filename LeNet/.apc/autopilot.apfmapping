@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="dense_layer5.cpp" path="D:\Project\FPGA\HLS\LeNet\src\dense_layer5.cpp"/>
+    <originFiles name="conv2d_layer3.cpp" path="D:\Project\FPGA\HLS\LeNet\src\conv2d_layer3.cpp"/>
+    <originFiles name="conv2d_layer1.cpp" path="D:\Project\FPGA\HLS\LeNet\src\conv2d_layer1.cpp"/>
+    <originFiles name="common.h" path="D:\Project\FPGA\HLS\LeNet\src\common.h"/>
+    <originFiles name="common.cpp" path="D:\Project\FPGA\HLS\LeNet\src\common.cpp"/>
+    <originFiles name="avgpool_layer4.cpp" path="D:\Project\FPGA\HLS\LeNet\src\avgpool_layer4.cpp"/>
+    <originFiles name="avgpool_layer2.cpp" path="D:\Project\FPGA\HLS\LeNet\src\avgpool_layer2.cpp"/>
+    <originFiles name="LeNet.cpp" path="D:\Project\FPGA\HLS\LeNet\src\LeNet.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="mnist_test_0_1000.txt" path="D:\Project\FPGA\HLS\LeNet\test\mnist_test_0_1000.txt"/>
+    <originFiles name="mnist_test_0_100.txt" path="D:\Project\FPGA\HLS\LeNet\test\mnist_test_0_100.txt"/>
+    <originFiles name="main_tb.cpp" path="D:\Project\FPGA\HLS\LeNet\test\main_tb.cpp"/>
+    <originFiles name="dense_layer5_tb.cpp" path="D:\Project\FPGA\HLS\LeNet\test\dense_layer5_tb.cpp"/>
+    <originFiles name="dense_layer5_output.txt" path="D:\Project\FPGA\HLS\LeNet\test\dense_layer5_output.txt"/>
+    <originFiles name="conv2d_layer3_tb.cpp" path="D:\Project\FPGA\HLS\LeNet\test\conv2d_layer3_tb.cpp"/>
+    <originFiles name="conv2d_layer3_output.txt" path="D:\Project\FPGA\HLS\LeNet\test\conv2d_layer3_output.txt"/>
+    <originFiles name="conv2d_layer1_tb.cpp" path="D:\Project\FPGA\HLS\LeNet\test\conv2d_layer1_tb.cpp"/>
+    <originFiles name="conv2d_layer1_output.txt" path="D:\Project\FPGA\HLS\LeNet\test\conv2d_layer1_output.txt"/>
+    <originFiles name="common.h" path="D:\Project\FPGA\HLS\LeNet\test\common.h"/>
+    <originFiles name="avgpool_layer4_tb.cpp" path="D:\Project\FPGA\HLS\LeNet\test\avgpool_layer4_tb.cpp"/>
+    <originFiles name="avgpool_layer4_output.txt" path="D:\Project\FPGA\HLS\LeNet\test\avgpool_layer4_output.txt"/>
+    <originFiles name="avgpool_layer2_tb.cpp" path="D:\Project\FPGA\HLS\LeNet\test\avgpool_layer2_tb.cpp"/>
+    <originFiles name="avgpool_layer2_output.txt" path="D:\Project\FPGA\HLS\LeNet\test\avgpool_layer2_output.txt"/>
+    <originFiles name="LeNet_weights.txt" path="D:\Project\FPGA\HLS\LeNet\test\LeNet_weights.txt"/>
+    <originFiles name="LeNet_tb.cpp" path="D:\Project\FPGA\HLS\LeNet\test\LeNet_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
